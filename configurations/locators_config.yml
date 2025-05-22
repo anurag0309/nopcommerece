@@ -1,0 +1,6 @@
+locators:
+  loc_username : "//input[@id='Email']"
+  loc_password : "//input[@id='Password']"
+  loc_login_btn : "//button[normalize-space()='Log in']"
+
+

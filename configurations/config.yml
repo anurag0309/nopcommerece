@@ -1,0 +1,5 @@
+login:
+  hrm_url : "https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F"
+  hrm_username : "admin@yourstore.com"
+  hrm_password : "admin"
+  hrm_title : "Dashboard"
