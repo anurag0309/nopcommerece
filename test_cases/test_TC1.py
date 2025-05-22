@@ -21,7 +21,7 @@ class Testcase_valid_input:
         self.login_page.hrm_password(self.password)
         self.login_page.hrm_login_btn()
         # print('>>>>>>>>>>>>>>>>>>>>>>')
-        time.sleep(10)
+        # time.sleep(10)
         act_dashboard_text = self.driver.title
         print('act_dashboard_text: ',act_dashboard_text)
         if act_dashboard_text == 'Dashboard / nopCommerce administration':
